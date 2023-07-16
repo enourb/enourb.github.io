@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.newyorkfed.org/'>Federal Reserve Bank of New York</a>.
+subtitle: <a href='https://www.newyorkfed.org/'>Federal Reserve Bank of New York</a> Research Analyst
 
 profile:
   align: right
