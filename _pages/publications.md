@@ -10,4 +10,11 @@ nav_order: 1
 <div class="publications">
 <h1>Blogs</h1>
 {% bibliography -f blogs %}
+
+<h1>Blogs</h1>
+{% bibliography -f thesis %}
+
+<h1>Presentations</h1>
+{% bibliography -f reading_group %}
+
 </div>
