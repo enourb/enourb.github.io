@@ -13,10 +13,12 @@ nav_order: 1
 
 <h1>Thesis</h1>
 {% bibliography -f thesis %}
-Copy available [here]({% link /assets/pdf/wfh.pdf %}).
+
+[PDF]({% link /assets/pdf/wfh.pdf %}).
 
 <h1>Presentations</h1>
 {% bibliography -f reading_group %}
-Slides available [here]({% link /assets/pdf/Financial_Accelerator_Presentation.pdf %}).
+
+[Slides]({% link /assets/pdf/Financial_Accelerator_Presentation.pdf %}).
 
 </div>
